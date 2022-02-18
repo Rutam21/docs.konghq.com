@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "connect": "^3.7.0",
-    "fast-glob": "^3.2.5",
+    "fast-glob": "^3.2.11",
     "js-yaml": "^4.1.0",
     "pdf-merger-js": "^3.1.0",
     "puppeteer": "^13.1.2",
