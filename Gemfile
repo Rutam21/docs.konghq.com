@@ -10,7 +10,7 @@ group :development do
   gem "rspec"
   gem "capybara"
   gem "rack-jekyll"
-  gem "puma"
+  gem "puma", ">= 5.6.4"
   gem "pry"
   gem "apparition"
 end
